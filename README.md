@@ -6,7 +6,7 @@ Create a virtual environment: python -m venv venv
  Run: pip install streamlit pandas numpy plotly statsmodels
  
  STEP3: Run the Dashboard
- run: streamlit run app.py
+ run: python -m streamlit run app.py
 
  STEP4:
  Try using one of these instead:
